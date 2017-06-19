@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image List</string>
+    <string name="add_cap">Add Caption to the selected picture</string>
+</resources>
